@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B9EFFA</color>
+    <color name="colorPrimaryDark">#B9EFFA</color>
+    <color name="colorAccent">#6CC3EE</color>
+    <color name="lineColor">#929b9b</color>
+    <color name="changeCityColor">#212b9c</color>
+</resources>
